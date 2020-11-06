@@ -18,7 +18,7 @@ Polylog app aims to create a better remote lecturing experience for both lecture
 
 ## Screenshots
 
-!['Lectures'](https://github.com/TheMartonfi/scheduler/blob/master/docs/home.png?raw=true)
-!['Lecture Edit'](https://github.com/TheMartonfi/scheduler/blob/master/docs/book-interview.png?raw=true)
-!['Lecture Reporting'](https://github.com/TheMartonfi/scheduler/blob/master/docs/booked-interview.png?raw=true)
-!['Session'](https://github.com/TheMartonfi/scheduler/blob/master/docs/delete.png)
+!['Lectures'](https://github.com/TheMartonfi/polylog-app/blob/main/docs/lectures.png?raw=true)
+!['Lecture Edit'](https://github.com/TheMartonfi/polylog-app/blob/main/docs/lecture-edit.png?raw=true)
+!['Lecture Reporting'](https://github.com/TheMartonfi/polylog-app/blob/main/docs/lecture-reporting.png?raw=true)
+!['Session'](https://github.com/TheMartonfi/polylog-app/blob/main/docs/session.png?raw=true)
